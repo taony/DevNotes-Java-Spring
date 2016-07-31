@@ -1,1 +1,1 @@
-# DevNotes-Java-Spring
+# DevNotes of Java Spring Framework
